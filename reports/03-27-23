@@ -1,0 +1,34 @@
+# Summary
+
+| Date   | Notes
+| :----- | :-------------------------------
+| Mar 27 | Planned the next steps - remaining works
+| Mar 19 | Learned how to solder, use safty soldering tools, and create dupont connectors. 
+| Mar 13 | Separated each servo and set a different value to stop those
+| Mar 3 | Modified the WifiAccessPoint codes to get the local server display information, fixed "Failed uploading: uploading error: exit status 2" 
+
+
+
+# Activities
+*  Planned the next steps - remaining works
+
+# Plans
+* Before next meeting: Continue with step 4 and 5.
+    1. Write a simple sketch to control the motors 
+    2. Find the stop signal for each motor (modify by a little each time)
+    3. Remotely control the motor using the wifi access point
+    4. Create the wiring needed for the battery 
+        + Solder the black wire to the charging board with the heat shrink
+        + One side of all three black wires needs to have dupont connector
+    5. Make the cardboard box (put everything in) + the wheels attached 
+    6. Control the cardboard robot from wifi
+    7. Write code for additional sensors and outputs
+        + Distance sensors
+        + Output display 
+        + IMU (gyroscope, accelerometer compass)
+        + GPS
+    8. Make the robot autonomous inside
+    9. Make the robot autonomous outside (GPS)
+
+# Schema: 
+ <img width="560" alt="Screen Shot 2023-03-26 at 11 16 52 AM" src="https://user-images.githubusercontent.com/79251745/227795826-fdba7b32-bdb4-47f2-a40b-6937271902b9.png">
