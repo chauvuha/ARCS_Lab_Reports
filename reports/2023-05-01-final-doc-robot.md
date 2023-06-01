@@ -1,11 +1,12 @@
-# Final progress
-- [x] Write a simple sketch to control the motors
+# Summary of final progress
+- [x] Write a simple sketch to control the motors in Arduino
 - [x] Find the stop signal for each motor (modify by a little each time)
 - [x] Remotely control the motor using the wifi access point
 - [x] Create the wiring needed for the battery
 - [x] Solder the black wire to the charging board with the heat shrink
 - [x] One side of all three black wires needs to have dupont connector
-- [x] Control the cardboard robot from wifi
+- [X] Connected everything according to schema, charged the motor driver and microcontroller
+- [x] Control the robot from wifi without having to connect the microcontroller to the computer
 - [ ] Make the cardboard box (put everything in) + the wheels attached (to be done when coming back)
 
 # Schema:
