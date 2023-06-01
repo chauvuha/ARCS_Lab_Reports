@@ -18,7 +18,7 @@
  * Motor driver: https://www.adafruit.com/product/2928  
  * ESP32 Feather Board: https://www.adafruit.com/product/3405
  * Charger: https://www.best-microcontroller-projects.com/tp4056.html
-3. Ensure that both the microcontroller and the battery for the motor driver are fully charged using the instructions in the next section. While charging the microcontroller, open Arduino on the computer and upload the code from "2023-05-01-final-code-robot.cpp"
+3. Ensure that both the microcontroller and the battery for the motor driver are fully charged using the instructions in the next section. While charging the microcontroller, open Arduino on the computer and upload the code from this [file](https://github.com/chauvuha/ARCS_Lab_Reports/blob/master/reports/2023-05-01-final-code-robot.cpp)
 4. Connect to the access point named "yourAp."
 5. Open your web browser and enter the following URLs:
     http://192.168.4.1/H to turn the LED on.
