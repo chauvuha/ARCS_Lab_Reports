@@ -10,7 +10,7 @@
 
 # Schema:
  <img width="300" alt="Screen Shot 2023-03-26 at 11 16 52 AM" src="https://user-images.githubusercontent.com/79251745/227795826-fdba7b32-bdb4-47f2-a40b-6937271902b9.png">
-  + Schema in practice:
+ 
 <img width="300" alt="Screen Shot 2023-03-13 at 11 52 30 PM" src="https://user-images.githubusercontent.com/79251745/224919191-448749df-7f8f-4e57-9c54-6ef20f5a5f02.png">
 
 # How to create and run the robot:
