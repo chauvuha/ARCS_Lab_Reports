@@ -1,12 +1,13 @@
 # Final progress
-[x] Write a simple sketch to control the motors 
-[x] Find the stop signal for each motor (modify by a little each time)
-[x] Remotely control the motor using the wifi access point
-[x] Create the wiring needed for the battery 
-[x] Solder the black wire to the charging board with the heat shrink
-[x] One side of all three black wires needs to have dupont connector
-[x] Control the cardboard robot from wifi
-[] Make the cardboard box (put everything in) + the wheels attached (to be done when coming back)
+- [x] Write a simple sketch to control the motors
+- [x] Find the stop signal for each motor (modify by a little each time)
+- [x] Remotely control the motor using the wifi access point
+- [x] Create the wiring needed for the battery
+- [x] Solder the black wire to the charging board with the heat shrink
+- [x] One side of all three black wires needs to have dupont connector
+- [x] Control the cardboard robot from wifi
+- [ ] Make the cardboard box (put everything in) + the wheels attached (to be done when coming back)
+
 
 # Schema:
  <img width="560" alt="Screen Shot 2023-03-26 at 11 16 52 AM" src="https://user-images.githubusercontent.com/79251745/227795826-fdba7b32-bdb4-47f2-a40b-6937271902b9.png">
