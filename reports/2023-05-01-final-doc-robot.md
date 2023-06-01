@@ -39,3 +39,4 @@ These URLs will appear as buttons already if you have the code from "2023-05-01-
 
 # Others:
 * How to create dupont connectors: (https://www.youtube.com/watch?v=jET1QTP1B7c)
+* Safety using LiPo Battery: (https://dronebotworkshop.com/lipo-safety/)
