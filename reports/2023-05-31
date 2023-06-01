@@ -1,0 +1,19 @@
+# Summary
+
+| Date   | Notes
+| May 20 | Installed VPN, Epic Game Launcher, Unreal Engine, and linked to Visual Code Studio.
+| May 21 | Accessed the Pomona server. Created jupyter notebook
+| May 22 | Watched fastai tutorial + test out with jupyter notebook
+
+# Activities
+* Installed VPN, Epic Game Launcher, Unreal Engine, and linked to Visual Code Studio. Also tried to follow Christy's tutorial to test out in Unreal Engine 5 but ran into issue described in the next section.
+* Watched fastai tutorial + test out with jupyter notebook
+
+# Issues
+* I installed mamba, have access and activated the conda environment. I was trying to clone unrealcv, but I could not build the plug in. The log indicated that the code broke here:
+```/Users/chauvu/unrealcv/Plugins/UnrealCV/HostProject/Plugins/UnrealCV/Intermediate/Build/Mac/arm64/UnrealEditor/Development/UnrealCV/Module.UnrealCV.cpp:24:
+In file included from /Users/chauvu/unrealcv/Plugins/UnrealCV/HostProject/Plugins/UnrealCV/Source/UnrealCV/Private/UE4CVServer.cpp:13:
+In file included from Editor/UnrealEd/Public/UnrealEd.h:289:
+/Users/Shared/Epic Games/UE_5.2/Engine/Source/Editor/UnrealEd/Public/LevelEditorViewport.h:81:4: error: declaration shadows a variable in the global namespace [-Werror,-Wshadow]
+                        Pending,
+                        ^```
