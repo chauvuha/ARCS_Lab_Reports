@@ -1,4 +1,4 @@
-# Summary of final progress
+# Final Summary
 - [x] Write a simple sketch to control the motors in Arduino
 - [x] Find the stop signal for each motor (modify by a little each time)
 - [x] Remotely control the motor using the wifi access point
