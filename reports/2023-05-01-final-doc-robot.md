@@ -18,7 +18,7 @@
  * Motor driver: https://www.adafruit.com/product/2928  
  * ESP32 Feather Board: https://www.adafruit.com/product/3405
  * Charger: https://www.best-microcontroller-projects.com/tp4056.html
-3. Ensure that both the microcontroller and the battery for the motor driver are fully charged using the instructions in the next section. While charging the microcontroller, open Arduino on the computer and upload the code from "2023-05-01-final-code-robot."
+3. Ensure that both the microcontroller and the battery for the motor driver are fully charged using the instructions in the next section. While charging the microcontroller, open Arduino on the computer and upload the code from "2023-05-01-final-code-robot.cpp"
 4. Connect to the access point named "yourAp."
 5. Open your web browser and enter the following URLs:
     http://192.168.4.1/H to turn the LED on.
@@ -26,7 +26,7 @@
     http://192.168.4.1/F to move forward.
     http://192.168.4.1/B to move backward.
     http://192.168.4.1/S to stop.
-These URLs will appear as buttons already if you have the code from "2023-05-01-final-code-robot."
+These URLs will appear as buttons already if you have the code from "2023-05-01-final-code-robot.cpp"
 
 # Charging instructions:
 1. The microcontroller: Connected to the push-down button. Charged by a cable that is plugged in the computer. Solid yellow light = charging; flickering yellow light = not charging. Button looks pressed when not charging.
