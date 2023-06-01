@@ -30,7 +30,7 @@ These URLs will appear as buttons already if you have the code from "2023-05-01-
 
 # Charging instructions:
 1. The microcontroller: Connected to the push-down button. Charged by a cable that is plugged in the computer. Solid yellow light = charging; flickering yellow light = not charging. Button looks pressed when not charging.
-2. The motor driver: Connected to the three-way button and the battery. Charged by the charged board and plugged in to the wall. Red light = charging. 
+2. The motor driver: Connected to the three-way button and the battery. Charged by the charged board and plugged in with the appropriate adapter to the wall power outlet. Red light = charging. 
   + To check if the motor driver is fully charged, follow these steps:
     + Use a multimeter and set it to DC mode.
     + Connect the black tip of the meter to the black wire of the battery, and do the same with the red tip.
